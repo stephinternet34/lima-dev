@@ -4,3 +4,4 @@ workflows:
   - governance::actor
   - workflow::inbox
   - workflow::decision
+  - workflow::plan
