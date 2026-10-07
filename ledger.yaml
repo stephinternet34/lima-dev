@@ -8,3 +8,4 @@ workflows:
   - workflow::idea
   - workflow::work
   - workflow::story
+  - workflow::feature
