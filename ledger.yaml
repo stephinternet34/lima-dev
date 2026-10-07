@@ -7,3 +7,4 @@ workflows:
   - workflow::plan
   - workflow::idea
   - workflow::work
+  - workflow::story
