@@ -10,3 +10,4 @@ workflows:
   - workflow::story
   - workflow::feature
   - workflow::verification
+  - view::webapp
