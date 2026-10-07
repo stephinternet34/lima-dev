@@ -5,3 +5,4 @@ workflows:
   - workflow::inbox
   - workflow::decision
   - workflow::plan
+  - workflow::idea
