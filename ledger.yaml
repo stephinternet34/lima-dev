@@ -1,0 +1,6 @@
+# Configuration de la CLI ledger (greffons désignés par leur nom, résolus via git config ledger.catalog).
+storage: ledger::storage-git
+workflows:
+  - governance::actor
+  - workflow::inbox
+  - workflow::decision

@@ -1,0 +1,8 @@
+# Manifeste de l'instance (un lima) : composition et catalogue épinglé. Partagé (versionné).
+manifest: 1
+lima: lima-dev
+project: dev
+catalog-url: https://github.com/stephinternet34/lima
+catalog-version: 75d2607ea7447ab0b5ad800f0e60ef167fdc5530
+plugins: [ledger::ledger0, ledger::storage-git, governance::actor, workflow::inbox, workflow::decision]
+allow: [experimental]
