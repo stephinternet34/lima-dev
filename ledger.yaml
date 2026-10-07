@@ -9,3 +9,4 @@ workflows:
   - workflow::work
   - workflow::story
   - workflow::feature
+  - workflow::verification
