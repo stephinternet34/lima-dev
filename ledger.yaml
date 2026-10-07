@@ -6,3 +6,4 @@ workflows:
   - workflow::decision
   - workflow::plan
   - workflow::idea
+  - workflow::work
