@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "hooks": {
+    "sessionStart": [
+      {
+        "type": "command",
+        "bash": "python -m lima context --hook copilot",
+        "powershell": "python -m lima context --hook copilot",
+        "timeoutSec": 60
+      }
+    ]
+  }
+}
