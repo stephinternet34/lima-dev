@@ -4,5 +4,5 @@ lima: lima-dev
 project: dev
 catalog-url: https://github.com/stephinternet34/lima
 catalog-version: 60bddf33f702461775f79f9f874216645a2321f3
-plugins: [ledger::ledger0, ledger::storage-git, governance::actor, workflow::inbox, workflow::decision, workflow::plan, workflow::idea, workflow::work, workflow::story, workflow::feature, workflow::verification, view::webapp]
+plugins: [ledger::ledger0, ledger::storage-git, governance::actor, workflow::inbox, workflow::decision, workflow::plan, workflow::idea, workflow::work, workflow::story, workflow::feature, workflow::verification, view::webapp, workflow::finding]
 allow: [experimental]

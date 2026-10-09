@@ -11,3 +11,4 @@ workflows:
   - workflow::feature
   - workflow::verification
   - view::webapp
+  - workflow::finding
