@@ -10,6 +10,17 @@
           }
         ]
       }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python -m lima turn-end",
+            "timeout": 60
+          }
+        ]
+      }
     ]
   }
 }
