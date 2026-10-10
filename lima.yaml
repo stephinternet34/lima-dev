@@ -3,6 +3,6 @@ manifest: 1
 lima: lima-dev
 project: dev
 catalog-url: https://github.com/stephinternet34/lima
-catalog-version: 07d0a3e84380964093e78e52ff5d9a1beaa4c6b2
+catalog-version: 35359cd89d05286ed7cee50177f8f6b54af4865c
 plugins: [ledger::ledger0, ledger::storage-git, governance::actor, workflow::inbox, workflow::decision, workflow::plan, workflow::idea, workflow::work, workflow::story, workflow::feature, workflow::verification, view::webapp, workflow::finding]
 allow: [experimental]
